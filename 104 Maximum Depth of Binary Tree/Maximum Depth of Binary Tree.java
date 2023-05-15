@@ -8,7 +8,6 @@ class Solution {
     }
 
 }
-
     // BFS (Breadth-First Search)
 public int maxDepth(TreeNode root) {
     if (root == null) {
