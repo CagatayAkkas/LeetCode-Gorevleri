@@ -1,3 +1,4 @@
+#Python3 versiyonunu seçmeyi unutma =)
 class Solution:
     def countSubstrings(self, s: str) -> int:
         count =0

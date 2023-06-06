@@ -1,3 +1,4 @@
+#Python3 versiyonunu seçmeyi unutma =)
 class Solution:
     def isSubtree(self, full: Optional[TreeNode], sub: Optional[TreeNode]) -> bool:
         if not sub:
