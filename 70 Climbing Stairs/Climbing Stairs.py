@@ -9,3 +9,4 @@ class Solution:
             low = high - low
             
         return high
+        
